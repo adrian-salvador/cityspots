@@ -3,6 +3,8 @@
 City Spots is an Android application built for the ECE 452 (Software Design and Architecture Course) Group Project. 
 This Android application aims to provide a mobile experience for discovering, saving, and organizing “city spots” (e.g., places you want to visit or favorite locations), with cloud-backed persistence to support shared and consistent data.
 
+### [Link to (YouTube Video) Demo](https://youtu.be/Czk8sb6vbe4?si=V1NSuKB_XKSEctzW)
+
 ---
 
 ## Tech Stack
